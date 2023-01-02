@@ -1,5 +1,5 @@
 # Site settings
-title: Hajune Lee (Data Scientist) # Freelancer
+title: Hajune Lee # Freelancer
 email: hjlee0421@gmail.com # your-email@domain.com
 url: https://github.com/hjlee0421 # https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: hjlee0421 # Dr. Henry Jekyll
+  copyright: Hajune Lee # Dr. Henry Jekyll
   location: Location
   social: SNS # Around the Web
-  credits: Credits
+#   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -48,7 +48,7 @@ social:
 #   - title: bitbucket
 #     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/hjlee0421
 
 # Postal address (add as many lines as necessary)
 address:
@@ -57,7 +57,7 @@ address:
 
 # Credits content
 # credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
-credits: '여기에 작성된 프로젝트 코드의 저작권은 작성자에게 있습니다.'
+# credits: '여기에 작성된 프로젝트 코드의 저작권은 작성자에게 있습니다.'
 
 # Build settings
 markdown: kramdown
